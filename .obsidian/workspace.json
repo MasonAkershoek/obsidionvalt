@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "47a29d5a1194dd9b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
             "id": "cf48029d8792e7df",
             "type": "leaf",
             "state": {
@@ -49,7 +61,8 @@
               "title": "1-15-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,8 +192,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -212,7 +225,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5317d767b79556e3",
+  "active": "47a29d5a1194dd9b",
   "lastOpenFiles": [
     "School/Winter 2025/Untitled.md",
     "School/Winter 2025/GC 100/1-15-2025 - Systems and Lat and Long.md",
