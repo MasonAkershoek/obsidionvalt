@@ -6,4 +6,9 @@
 - [ ] Reinstall arch linux on laptop
 - [ ] do tech cleaning of all my important files [[Places to Check for files]]
 - [ ] Call department of helth and human services and have adress changed to marquette
+- [ ] look up and study .h files
+- [ ] look up and study templated files
+- [ ] study different types of sorting algorythems and write them
+- [ ] learn more about bigO and other time stuff
+- [ ] Play With Unity
 - [ ] 

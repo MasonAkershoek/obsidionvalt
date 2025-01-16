@@ -4,56 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eec79bbec1c4bfd8",
+        "id": "b66fea5e4696de71",
         "type": "tabs",
         "children": [
           {
-            "id": "5317d767b79556e3",
+            "id": "0fa7d1d0e0afde70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Winter 2025/GC 100/1-15-2025 - Systems and Lat and Long.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1-15-2025 - Systems and Lat and Long"
-            }
-          },
-          {
-            "id": "47a29d5a1194dd9b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
-            "id": "cf48029d8792e7df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GC 100/1-14-2025 - Basics of Geography.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1-14-2025 - Basics of Geography"
-            }
-          },
-          {
-            "id": "891cef4969d09cb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GC 100/1-15-2025.md",
+                "file": "School/Winter 2025/CS 342/Daily Notes/1-15-2025.md",
                 "mode": "source",
                 "source": false
               },
@@ -61,8 +21,7 @@
               "title": "1-15-2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,15 +184,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "47a29d5a1194dd9b",
+  "active": "0fa7d1d0e0afde70",
   "lastOpenFiles": [
-    "School/Winter 2025/Untitled.md",
+    "Places to Check for files.md",
+    "To-Do List.md",
+    "School/Winter 2025/CS 342/Daily Notes/1-15-2025.md",
+    "School/Winter 2025/CS 222/Daily Notes/1-15-2025  - Some Basics.md",
+    "School/Winter 2025/CS 342/Daily Notes",
+    "School/Winter 2025/CS 222/Daily Notes",
+    "School/Winter 2025/CS 342",
+    "School/Winter 2025/CS 222",
     "School/Winter 2025/GC 100/1-15-2025 - Systems and Lat and Long.md",
+    "School/Winter 2025/Untitled.md",
     "School/Winter 2025",
     "School",
-    "To-Do List.md",
     "School/Winter 2025/GC 100/1-14-2025 - Basics of Geography.md",
-    "Places to Check for files.md",
     "day notes/2025-01-14.md",
     "day notes",
     "School/Winter 2025/MA 111/1-14-2025 - Basics Review.md",
