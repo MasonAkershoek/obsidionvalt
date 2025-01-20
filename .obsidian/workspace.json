@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3fc103dbc0fc586f",
@@ -199,18 +200,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4f2db628ddb6f915",
+  "active": "cf48029d8792e7df",
   "lastOpenFiles": [
+    "School/Winter 2025/CS 222/Daily Notes/1-16-2025.md",
+    "School/Winter 2025/CS 222/Daily Notes/1-17-2025.md",
+    "To-Do List.md",
     "School/Winter 2025/CS 222/Sorting Algorithems.md",
     "conflict-files-obsidian-git.md",
     "Shithead/UI Stuff.md",
     "Shithead/Global stuff.md",
-    "School/Winter 2025/CS 222/Daily Notes/1-17-2025.md",
-    "School/Winter 2025/CS 222/Daily Notes/1-16-2025.md",
     "School/Winter 2025/GC 100/Daily Notes/1-16-2025.md",
     "School/Winter 2025/GC 100/Daily Notes",
     "Arch/Arch Config stuff.md",
-    "To-Do List.md",
     "Shithead",
     "Arch",
     "School/Winter 2025/CS 342/Daily Notes/1-15-2025.md",
