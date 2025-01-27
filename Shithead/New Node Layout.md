@@ -1,0 +1,17 @@
+- # Variables
+	- Global transforms with respect to the main game world self.GlobalTransform
+		- Table: Global Position (x,y)
+		- Table: Global Scale(x,y)
+		- Table: Global Rotation
+		- Table: Global Size
+	- Local transforms with respect to the origen of the objects parent self.Transform
+		- Table: Position
+		- Table: Scale
+		- Table: Rotation
+		- Table: size
+	- Parent Child Relationships
+		- self.parent - a node may only have one parent
+		- self.children - a table that holds all children of the node
+	- extra functionality
+		- self.functions - For adding functions to a node
+		- 
