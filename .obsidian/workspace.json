@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Winter 2025/CS 222/Daily Notes/1-29-25.md",
+                "file": "School/Winter 2025/GC 100/Daily Notes/2-3-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-29-25"
+              "title": "2-3-25"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -186,7 +187,15 @@
   },
   "active": "0fa7d1d0e0afde70",
   "lastOpenFiles": [
+    "School/Winter 2025/GC 100/Daily Notes/1-14-2025 - Basics of Geography.md",
+    "School/Winter 2025/GC 100/Daily Notes/1-15-2025 - Systems and Lat and Long.md",
+    "School/Winter 2025/GC 100/Daily Notes/1-16-2025.md",
+    "School/Winter 2025/GC 100/Daily Notes/1-22-25 - Seasons.md",
     "School/Winter 2025/GC 100/Daily Notes/1-29-25.md",
+    "School/Winter 2025/GC 100/Daily Notes/2-3-25.md",
+    "School/Winter 2025/MA 111/1-14-2025 - Basics Review.md",
+    "School/Winter 2025/CS 342/Daily Notes/1-30-25.md",
+    "School/Winter 2025/CS 342/Daily Notes/1-29-25.md",
     "School/Winter 2025/CS 222/Daily Notes/1-29-25.md",
     "Shithead/New Node Layout.md",
     "Shithead/Global stuff.md",
@@ -196,7 +205,6 @@
     "School/Winter 2025/CS 222/Daily Notes/1-23-25 - Trees.md",
     "School/Winter 2025/CS 222/Daily Notes/1-22-25.md",
     "School/Winter 2025/CS 342/Daily Notes/1-17-2025.md",
-    "School/Winter 2025/GC 100/Daily Notes/1-22-25 - Seasons.md",
     "School/Winter 2025/CS 222/Daily Notes/1-17-2025.md",
     "Shithead/UI Stuff.md",
     "Shithead",
@@ -204,21 +212,14 @@
     "School/Winter 2025/CS 342/Daily Notes/1-16-2025 - C Sharp.md",
     "School/Winter 2025/CS 222/Daily Notes/1-16-2025.md",
     "School/Winter 2025/CS 342/Daily Notes/1-15-2025.md",
-    "School/Winter 2025/GC 100/Daily Notes/1-16-2025.md",
-    "School/Winter 2025/GC 100/Daily Notes/1-15-2025 - Systems and Lat and Long.md",
-    "School/Winter 2025/GC 100/Daily Notes/1-14-2025 - Basics of Geography.md",
     "School/Winter 2025/GC 100/Daily Notes",
     "Arch/Arch Config stuff.md",
     "Arch",
     "Places to Check for files.md",
-    "To-Do List.md",
-    "School/Winter 2025/CS 222/Daily Notes/1-15-2025  - Some Basics.md",
     "School/Winter 2025/CS 342/Daily Notes",
     "School/Winter 2025/CS 222/Daily Notes",
     "School/Winter 2025/CS 342",
     "School/Winter 2025/CS 222",
-    "School/Winter 2025/GC 100/1-15-2025 - Systems and Lat and Long.md",
-    "School/Winter 2025/Untitled.md",
     "School/Winter 2025",
     "School",
     "day notes",
